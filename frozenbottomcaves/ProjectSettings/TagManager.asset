@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cSpawn
+  - eSpawn
+  - attackhighlight
+  - pSpawn
+  - Grid
+  - Tilemap
+  - Knight
+  - Monster
+  - Companion
+  - SE
+  - SW
+  - NW
+  - NE
+  - Enemy
+  - GM
+  - OWNode
+  - enemyHPBars
+  - enemyDMGText
+  - Resolution
+  - FramerateCap
+  - RefreshRate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Text
+  - Background
+  - Cursor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

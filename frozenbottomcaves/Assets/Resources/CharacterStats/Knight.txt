@@ -1,0 +1,30 @@
+TheWhiteKnight1
+TheWhiteKnight1(Clone)
+Sir Rancelot earned his status as knight for being the strongest, smartest, and most courageous in his graduating class! Uhm, well maybe not the strongest. Or smartest, as he did fail the written portion. And technically, he didn't earn his status so much as he was simply born into it. But he definitely was the most courageous, and he proves that every chance he gets.
+You have been sent by the King and Queen of Rockside Castle to find `The Warrior of Frozenbottom Caves.` He is a threat, and must be dealt with.
+20
+14 8 10
+Basic Move
+Move one tile in a cardinal direction
+Prefabs/TileHighlight2
+0
+0 -1 1
+0 1 1 0 0 -1 -1 0
+Basic Attack
+Attack one adjacent tile for 4 damage
+Prefabs/TileHighlight1
+0
+4 1 0
+0 1 1 1 1 0 1 -1 0 -1 -1 -1 -1 0 -1 1
+Triple Jab
+Quickly attack 3 tiles for 3 damage each
+Prefabs/TileHighlight1
+4
+3 1 0
+0 1 1 0 0 -1 -1 0
+Thrust
+Attack in a straight line up to two tiles away for 4 damage
+Prefabs/TileHighlight2
+5
+4 1 0
+0 1 1 0 0 -1 -1 0
